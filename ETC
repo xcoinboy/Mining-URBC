@@ -1,2 +1,2 @@
 -pool s1.solopool.org:7011 -wal 0x6d4A99394c6ad2e6D21F4a15FEeE2eD3eE4BE2dd -worker 1 -epsw x -mode 1 -Rmode 1 -log 0 -mport 0 -etha 0 -retrydelay 1 -coin eth
-pause
+
